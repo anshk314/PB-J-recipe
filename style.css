@@ -1,0 +1,18 @@
+h1 {
+  color: green;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+  color: blue;
+}
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  width: 300px;
+  margin: 50px auto;
+  background-color: white;
+  padding: 25px 50px;
+  border-radius: 25px;
+}
+html {
+  background-color: yellow;
+}
